@@ -1,5 +1,5 @@
 {
-  "name": "to-do",
+  "name": "to-do-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "bcrypt": "^6.0.0",
-    "cookieparser": "^0.1.0",
-    "jsonwebtoken": "^9.0.3",
-    "multer": "^2.2.0",
-    "mysql2": "^3.23.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   },
